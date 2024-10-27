@@ -1,0 +1,3 @@
+-r ../../../common/requirements.txt
+boto3==1.26.158
+
